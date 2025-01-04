@@ -680,7 +680,7 @@ button.reset-options {
     flex-basis: calc((100% - 20px) / 2);
   }
 }
-@media (max-width: 575px) {
+@media (max-width: 768px) {
   .features .feature-box {
     flex-basis: 100%;
   }
